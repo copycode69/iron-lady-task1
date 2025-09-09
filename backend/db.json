@@ -1,0 +1,14 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "question": "What programs does Iron Lady offer?",
+      "answer": "Iron Lady offers Leadership Essentials, Executive Coaching, Bootcamps, and Mentorship."
+    },
+    {
+      "id": 2,
+      "question": "How long are the programs?",
+      "answer": "Leadership Essentials: 6 weeks, Coaching: 3 months, Bootcamp: 2 weeks, Mentorship: 6 months."
+    }
+  ]
+}
