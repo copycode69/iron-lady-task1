@@ -12,7 +12,7 @@ It works in two steps:
 
 ### 1. Clone project
 ```bash
-git clone <your-repo-url>
-cd chat-bot
+git clone https://github.com/copycode69/iron-lady-task1.git
+cd iron-lady-task1
 
 uvicorn main:app --reload --port 8000

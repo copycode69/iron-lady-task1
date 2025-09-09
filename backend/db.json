@@ -9,6 +9,36 @@
       "id": 2,
       "question": "How long are the programs?",
       "answer": "Leadership Essentials: 6 weeks, Coaching: 3 months, Bootcamp: 2 weeks, Mentorship: 6 months."
+    },
+    {
+      "id": 3,
+      "question": "Who are the programs designed for?",
+      "answer": "The programs are designed for professionals, aspiring leaders, and executives who want to enhance their leadership skills."
+    },
+    {
+      "id": 4,
+      "question": "Are the programs online or in-person?",
+      "answer": "Programs are offered online with interactive sessions. Some bootcamps may include optional in-person workshops."
+    },
+    {
+      "id": 5,
+      "question": "Do I need prior leadership experience?",
+      "answer": "No prior leadership experience is required. Programs are tailored for both beginners and experienced professionals."
+    },
+    {
+      "id": 6,
+      "question": "Will I receive a certificate after completion?",
+      "answer": "Yes, participants receive a certificate upon successful completion of each program."
+    },
+    {
+      "id": 7,
+      "question": "How do I apply for a program?",
+      "answer": "You can apply by filling out the registration form on the Iron Lady website. Our team will contact you with next steps."
+    },
+    {
+      "id": 8,
+      "question": "Is financial aid or installment payment available?",
+      "answer": "Yes, Iron Lady provides flexible installment payment options and limited scholarships."
     }
   ]
 }
